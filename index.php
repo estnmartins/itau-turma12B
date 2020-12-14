@@ -9,7 +9,7 @@ $i = $i + 500 - 300;
 $n = $n * 5000;
 
 
-echo "O valor da soma é $i\n";
+echo "O valor da soma é $i"\n;
 
 echo "O valor da multiplicaçao é $n";
 
